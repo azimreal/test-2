@@ -42,6 +42,7 @@ nav ul {
     padding: 5px 3x;
     font-size: 16px;
     cursor: pointer;
+    border: none;
     
     background-color: rgb(237, 248, 242);
     border-radius: 5px; 
@@ -111,4 +112,20 @@ nav ul {
     text-decoration: none;
     font-weight: bold;
     color: rgb(64, 103, 105);}
-    
+    #center {
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(64, 103, 105);
+        max-width: 80%;
+        margin: auto;
+        padding: 10px;
+    }
+    #btu {
+        color:rgb(64, 103, 105);
+        padding: 5px 3x;
+        font-size: 16px;
+        cursor: pointer;
+        border: none;
+        background-color: rgb(237, 248, 242);
+        border-radius: 5px; 
+    }
