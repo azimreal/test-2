@@ -1,0 +1,114 @@
+
+
+
+header{background-color: aliceblue;
+padding: 3px;
+border-radius: 30px;
+    max-width: 80%;
+    margin: auto;}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+nav a {
+    text-decoration: none;
+     font-weight: bold;
+    padding: 20px;
+    color: rgb(64, 103, 105);
+}
+nav ul {
+
+
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;}
+.navba {
+    
+ 
+    margin: auto 10px;
+    display: inline-flex;
+    padding: 10px;
+    font-weight: bold;
+    background-color:  aliceblue;
+    
+}
+.navba button {
+    color:rgb(64, 103, 105);
+    padding: 5px 3x;
+    font-size: 16px;
+    cursor: pointer;
+    
+    background-color: rgb(237, 248, 242);
+    border-radius: 5px; 
+}
+#azim {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(64, 103, 105);
+    margin-left: 20px;
+    cursor: pointer;
+}
+#likha {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(64, 103, 105);
+    text-align:center;
+    bottom: 10px;
+   max-width: 80%;
+    margin: auto;
+   
+}
+.banar1 {
+    border: 7px solid rgb(238, 250, 240);
+    padding: 3px;
+    max-width: 80%;
+    margin: auto;
+    border-radius: 30px;
+    display: flex;
+    
+}
+#banar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(64, 103, 105);
+    margin-left: 20px;
+    flex: 1;
+    padding: 10px;
+}
+#video {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(64, 103, 105);
+    max-width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+#figar {
+    flex: 1;
+    padding: 30px;
+    text-align: center;
+    max-width: 80%;
+    margin: auto;
+}
+#unic {
+    display: inline-flex;
+   
+    padding: 5px 3px;
+     font-size: 12px;
+     cursor: pointer;
+     background-color: rgb(243, 245, 244);
+     border-radius: 7px; }
+
+
+#unic:hover {
+    background-color: rgb(135, 235, 218);
+    transition: 0.5s;
+}
+#unic a {
+
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(64, 103, 105);}
+    
