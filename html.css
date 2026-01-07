@@ -129,3 +129,8 @@ nav ul {
         background-color: rgb(237, 248, 242);
         border-radius: 5px; 
     }
+    #btu:hover {
+        background-color: rgb(235, 241, 240);
+        transition: 0.5s;
+        text-shadow: 1px 1px 2px gray;
+    }
